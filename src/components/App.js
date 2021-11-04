@@ -1,6 +1,6 @@
 import React, { useState, useLayoutEffect } from 'react';
 import {
-    BrowserRouter as Router,
+    HashRouter as Router,
     Route,
     Switch,
     Redirect
