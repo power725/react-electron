@@ -1,0 +1,10 @@
+.cs-input {
+  @apply w-full text-gray-600 rounded border border-gray-normal pl-3 pr-3 py-1.5 focus:outline-none focus:border-gray-500;
+  font-size: 14px;
+}
+.cs-big-input {
+  @apply w-full text-gray-600 rounded border border-gray-normal px-3 pt-5 pb-1 focus:outline-none focus:border-gray-500;
+}
+.btn {
+  @apply px-3 py-2 bg-gray-normal rounded text-center text-sm;
+}
